@@ -1,4 +1,4 @@
-# Taxi Request Service API
+# AI Service API
 
 Este es un proyecto Java basado en Spring Boot que proporciona una API para un servicio que implementa AI.
 
