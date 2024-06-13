@@ -1,0 +1,45 @@
+# Directorios específicos de IDE
+/.idea/
+/*.iml
+/.vscode/
+/*.log
+
+# Archivos de compilación
+/target/
+/out/
+
+# Archivos de configuración del entorno
+/.env
+/*.properties
+
+# Archivos de dependencias descargadas
+/.mvn/
+/.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
+/mvnw
+/mvnw.cmd
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+/logs/
+/*.log
+
+# Archivos generados por el compilador
+*.class
+
+# Directorios específicos de herramientas de construcción
+/.gradle/
+/build/
+
+# Archivos específicos de herramientas de control de calidad
+/reports/
+/.coverage/
+
+# Archivos específicos de Spring Boot DevTools
+/spring-boot-devtools.properties
+
+# Archivos generados por Lombok
+/.lombok/
